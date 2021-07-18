@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="idle.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="-229.20852"
+     inkscape:cy="635.26217"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4904"
+     showgrid="false"
+     units="px"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="80.697915,68.319199"
+       orientation="0,1"
+       id="guide883"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <g
+       id="g846"
+       transform="matrix(0.77709751,0,0,0.77709751,10.714372,54.169231)"
+       inkscape:export-filename="F:\soln\FPS\2dGame\char\Jump\Jump1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g910"
+         inkscape:export-filename="F:\soln\FPS\2dGame\char\Idle\Idle.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         id="g965"
+         inkscape:export-filename="F:\soln\FPS\2dGame\char\Run\Run1.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="rotate(-21.245771,98.991276,194.9142)">
+        <g
+           id="g988"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Run\Run1.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Run\Run4.png"
+             transform="rotate(18.488607,85.742642,195.44722)"
+             inkscape:transform-center-y="-11.43469"
+             inkscape:transform-center-x="-5.2409789"
+             id="g859" />
+          <g
+             id="g1004" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4844"
+       transform="rotate(11,83.555243,188.35649)"
+       inkscape:export-filename="F:\soln\FPS\2dGame\char\Jump\Jump5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="F:\soln\FPS\2dGame\char\Jump\Jump2.png"
+         transform="rotate(10,90.940433,209.85479)"
+         id="g1108">
+        <g
+           transform="matrix(0.75942448,0.16478779,-0.16478779,0.75942448,46.950846,46.747474)"
+           id="g851"
+           inkscape:transform-center-x="-3.2517235"
+           inkscape:transform-center-y="-11.910108"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           transform="matrix(0.77248495,-0.08454315,0.08454315,0.77248495,-2.9000328,65.573135)"
+           id="g1008" />
+        <g
+           id="g4911"
+           transform="translate(39.546441,-11.975661)"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall5.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <circle
+             r="3.830359"
+             cy="220.85966"
+             cx="72.851395"
+             id="path879"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90078783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="matrix(0.77248494,-0.08454315,0.08454315,0.77248494,-2.9000329,65.573134)" />
+          <path
+             transform="matrix(-0.70207311,0.33312742,-0.33312742,-0.70207311,197.23099,360.73196)"
+             sodipodi:type="spiral"
+             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34047636;stroke-opacity:1"
+             id="path918"
+             sodipodi:cx="72.926445"
+             sodipodi:cy="220.95509"
+             sodipodi:expansion="1"
+             sodipodi:revolution="3"
+             sodipodi:radius="2.9072645"
+             sodipodi:argument="-17.948881"
+             sodipodi:t0="0"
+             d="m 72.926445,220.95509 c 0.09053,0.11425 -0.109332,0.1784 -0.18988,0.15047 -0.218279,-0.0757 -0.221067,-0.36682 -0.111061,-0.53023 0.196774,-0.2923 0.618484,-0.28038 0.87058,-0.0717 0.369962,0.30632 0.341907,0.87373 0.03224,1.21093 -0.412733,0.44945 -1.130255,0.4044 -1.551282,-0.007 -0.52982,-0.51791 -0.467395,-1.38741 0.04658,-1.89164 0.622487,-0.61068 1.644907,-0.53068 2.231982,0.086 0.691849,0.72672 0.594162,1.90263 -0.125393,2.57233 -0.830755,0.7732 -2.160493,0.65776 -2.912683,-0.1648 -0.854686,-0.93465 -0.721446,-2.41846 0.204212,-3.25303 1.038448,-0.93627 2.676504,-0.7852 3.593384,0.24362 1.017909,1.14218 0.848988,2.9346 -0.283031,3.93373" />
+          <circle
+             r="0.48428193"
+             cy="236.60422"
+             cx="46.702198"
+             id="circle914"
+             style="opacity:1;fill:#fff9f9;fill-opacity:1;stroke:none;stroke-width:0.11388887;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="rotate(-6.2457702)" />
+        </g>
+        <g
+           transform="matrix(0.77248495,-0.08454315,0.08454315,0.77248495,5.8809506,55.053273)"
+           id="g1015"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall5.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             id="g1020">
+            <g
+               id="g1025">
+              <g
+                 id="g1030">
+                <circle
+                   transform="rotate(-58.095315)"
+                   style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05091918;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="path881"
+                   cx="-122.86064"
+                   cy="220.31499"
+                   r="3.8303592" />
+                <path
+                   transform="rotate(-15.465705,121.38984,221.536)"
+                   sodipodi:type="spiral"
+                   style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34047636;stroke-opacity:1"
+                   id="path920"
+                   sodipodi:cx="122.05232"
+                   sodipodi:cy="221.12706"
+                   sodipodi:expansion="1"
+                   sodipodi:revolution="3"
+                   sodipodi:radius="2.9072645"
+                   sodipodi:argument="-17.948881"
+                   sodipodi:t0="0"
+                   d="m 122.05232,221.12706 c 0.0905,0.11424 -0.10933,0.1784 -0.18988,0.15047 -0.21828,-0.0757 -0.22106,-0.36682 -0.11106,-0.53023 0.19678,-0.2923 0.61849,-0.28038 0.87058,-0.0717 0.36996,0.30632 0.34191,0.87372 0.0322,1.21093 -0.41273,0.44944 -1.13025,0.4044 -1.55128,-0.007 -0.52982,-0.51791 -0.46739,-1.3874 0.0466,-1.89163 0.62248,-0.61068 1.64491,-0.53068 2.23198,0.086 0.69185,0.72672 0.59416,1.90262 -0.12539,2.57233 -0.83076,0.7732 -2.1605,0.65776 -2.91269,-0.1648 -0.85468,-0.93465 -0.72144,-2.41847 0.20422,-3.25304 1.03844,-0.93626 2.6765,-0.78519 3.59338,0.24362 1.01791,1.14218 0.84899,2.93461 -0.28303,3.93374" />
+                <circle
+                   r="0.62319326"
+                   cy="221.05727"
+                   cx="122.11407"
+                   id="circle916"
+                   style="opacity:1;fill:#fff9f9;fill-opacity:1;stroke:none;stroke-width:0.14655674;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="rect876"
+           d="m 126.90909,200.86206 9.06514,4.90038 33.64272,-12.43208 2.32009,2.31642 -0.42078,-2.84552 5.30203,-4.32718 -1.90341,5.09541 3.43381,1.87724 -13.1816,5.09732 -2.85098,-1.70662 -7.39271,5.32119 -24.70994,9.80721 z"
+           style="opacity:1;fill:#2a0000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall5.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g4945"
+           transform="rotate(15,168.07347,279.95717)">
+          <g
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall2.png"
+             transform="rotate(15,201.93088,297.53475)"
+             id="g4926">
+            <circle
+               transform="rotate(12.242836)"
+               r="2.7912388"
+               cy="131.32707"
+               cx="138.76823"
+               id="circle832"
+               style="opacity:1;fill:#0c54ff;fill-opacity:1;stroke:#000000;stroke-width:0.09230868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <circle
+               transform="rotate(12.242836)"
+               style="opacity:1;fill:#0c54ff;fill-opacity:1;stroke:#000000;stroke-width:0.09538215;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path830"
+               cx="136.00945"
+               cy="131.71249"
+               r="2.8841743" />
+            <circle
+               transform="rotate(12.242836)"
+               r="0.44058654"
+               cy="131.11256"
+               cx="137.80365"
+               id="path822"
+               style="opacity:1;fill:#040000;fill-opacity:1;stroke:none;stroke-width:3.10839009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+            <circle
+               transform="rotate(12.242836)"
+               style="opacity:1;fill:#040000;fill-opacity:1;stroke:none;stroke-width:3.10839009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="circle826"
+               cx="140.73708"
+               cy="130.53668"
+               r="0.44058654"
+               inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+          </g>
+        </g>
+        <ellipse
+           transform="rotate(-6.2457702)"
+           style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path912"
+           cx="46.754436"
+           cy="236.57207"
+           rx="0.5345391"
+           ry="0.5011304"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall5.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g4971"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall5.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="rotate(15,167.30941,470.49544)">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 99.473696,193.69606 c 0.03882,0.0173 -2.313928,3.90172 -3.61457,6.31795 -0.379635,0.70526 -0.476328,1.93727 0.180192,2.39606 0.694567,0.48538 1.845049,0.19084 1.937832,-0.65142 0.242694,-2.2031 3.7446,-7.58502 4.03261,-7.55696 z"
+             id="path4928"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cssscc"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall2.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"
+             transform="rotate(15.000001,168.07346,279.95716)" />
+          <path
+             sodipodi:nodetypes="cssscc"
+             inkscape:connector-curvature="0"
+             id="path4930"
+             d="m 104.11609,194.87228 c 0.0388,0.0173 -2.31393,3.90172 -3.61457,6.31795 -0.37963,0.70526 -0.47633,1.93727 0.18019,2.39606 0.69457,0.48538 1.84505,0.19084 1.93784,-0.65142 0.24269,-2.2031 3.7446,-7.58502 4.03261,-7.55696 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall2.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"
+             transform="rotate(15.000001,168.07346,279.95716)" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+             sodipodi:nodetypes="cssssscc"
+             inkscape:connector-curvature="0"
+             id="path889"
+             d="m 131.00713,166.62594 c 0,0 4.55459,4.69863 6.48354,5.09722 2.65277,0.54816 5.52277,-0.11651 7.04494,0.26703 0.50833,0.12809 1.15372,0.31733 1.35252,0.80241 0.16965,0.41375 0.0856,1.16458 -0.34144,1.29735 -0.9467,0.29441 -6.70171,1.05949 -10.04321,-0.1711 -1.94394,-0.71589 -5.84065,-4.85275 -5.84065,-4.85275 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.14329331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:transform-center-x="-1.5431856"
+             inkscape:transform-center-y="-1.1992208" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path817"
+             d="m 78.152931,201.04673 c -1.794783,-2.53084 -4.74142,17.29818 -5.396365,22.05023 -0.500989,3.63501 14.359801,1.88717 14.6326,-0.56491 0.596244,-5.35942 -1.369365,-19.00774 -1.531998,-18.62688 -2.033415,4.7619 -5.766214,-0.12561 -7.704237,-2.85844 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.54396826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"
+             transform="rotate(30,183.8451,290.97467)" />
+          <circle
+             r="15.689544"
+             cy="179.88258"
+             cx="85.889839"
+             id="path815"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:transform-center-x="-0.40090431"
+             inkscape:transform-center-y="-11.225321"
+             transform="matrix(0.575287,0.52242266,-0.52242266,0.575287,187.4048,11.020583)" />
+          <path
+             style="fill:#0f0f0f;fill-opacity:1;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 84.693147,192.43728 c 0.23255,-0.80878 5.304111,-3.26995 7.430229,-3.19442 2.117477,0.0752 4.841056,0.45447 4.536713,1.62386 -0.581871,2.23579 -3.737721,0.52901 -5.556177,0.44021 -1.962189,-0.0958 -6.95363,3.01838 -6.410765,1.13035 z"
+             id="path861"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="sssss"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"
+             transform="rotate(30,183.8451,290.97467)" />
+          <path
+             style="fill:#ff9b9b;fill-opacity:0.81407034;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 149.79819,166.59661 c 0.0406,0.0246 -0.40994,-1.964 -1.07024,-2.54866 -1.82575,-1.6166 -4.27927,-1.03547 -4.03859,-0.4363 0.15428,0.38406 1.60498,0.24818 3.12797,1.06898 1.56658,0.84431 1.96026,1.90354 1.98086,1.91598 z"
+             id="path863"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="sssss"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Fall\Fall1.png"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.14384802;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 131.89654,170.09886 c 0,0 5.29062,-1.01495 7.25038,-1.27776 2.69518,-0.36145 3.75687,0.43861 5.41786,0.6893 1.08101,0.16316 2.81532,1.0547 3.47714,1.48983 0.3751,0.24662 0.46773,1.07493 0.10732,1.34247 -0.57278,0.42518 -2.65582,-0.41717 -5.26033,-0.68483 -1.02925,-0.10578 -2.53177,-0.43929 -3.46052,-0.0879 -1.94506,0.73585 -7.99515,1.28696 -7.99515,1.28696 z"
+             id="path887"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csssssscc"
+             inkscape:transform-center-x="-5.9802634"
+             inkscape:transform-center-y="4.7734335" />
+          <path
+             inkscape:transform-center-y="0.19617561"
+             inkscape:transform-center-x="0.0095598677"
+             transform="matrix(0.10189664,0.24417497,-0.24417497,0.10189664,250.14668,-54.384766)"
+             d="m 607.15779,664.20997 -3.59577,-4.02281 -5.35239,0.68152 2.71477,-4.66289 -2.30215,-4.87982 5.27359,1.14098 3.92958,-3.69742 0.54449,5.36806 4.73076,2.59469 -4.93707,2.17667 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="1.928168"
+             sodipodi:arg1="1.2998495"
+             sodipodi:r2="4.0625515"
+             sodipodi:r1="8.125103"
+             sodipodi:cy="656.38129"
+             sodipodi:cx="604.98315"
+             sodipodi:sides="5"
+             id="path4947"
+             style="opacity:1;fill:#0c54ff;fill-opacity:1;stroke:#000000;stroke-width:0.62362206;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="star" />
+          <path
+             sodipodi:type="star"
+             style="opacity:1;fill:#0c54ff;fill-opacity:1;stroke:#000000;stroke-width:0.62362206;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path4951"
+             sodipodi:sides="5"
+             sodipodi:cx="604.98315"
+             sodipodi:cy="656.38129"
+             sodipodi:r1="8.125103"
+             sodipodi:r2="4.0625515"
+             sodipodi:arg1="1.2998495"
+             sodipodi:arg2="1.928168"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 607.15779,664.20997 -3.59577,-4.02281 -5.35239,0.68152 2.71477,-4.66289 -2.30215,-4.87982 5.27359,1.14098 3.92958,-3.69742 0.54449,5.36806 4.73076,2.59469 -4.93707,2.17667 z"
+             transform="matrix(0.10189664,0.24417497,-0.24417497,0.10189664,252.95079,-53.180829)"
+             inkscape:transform-center-x="0.0095598677"
+             inkscape:transform-center-y="0.19617561" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="F:\soln\FPS\2dGame\char\Jump\Jump5.png"
+       transform="rotate(11,99.187717,-1106.8154)"
+       id="g4904">
+      <g
+         id="g4900"
+         transform="rotate(10,-13.016156,338.46381)"
+         inkscape:export-filename="F:\soln\FPS\2dGame\char\Crouch\Crouch3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           sodipodi:nodetypes="sssss"
+           inkscape:connector-curvature="0"
+           id="path4848"
+           d="m 80.660279,216.25842 c -2.388657,-1.98009 -2.145097,3.84652 -1.547802,8.60617 0.456891,3.64082 14.358936,-1.89373 13.987795,-4.33286 -0.811191,-5.33112 -4.199935,-3.91625 -4.258453,-3.50628 -0.731657,5.12593 -5.602245,1.37108 -8.18154,-0.76703 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.54396826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="F:\soln\FPS\2dGame\char\Run\Run4.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           inkscape:transform-center-y="-12.027129"
+           inkscape:transform-center-x="-0.32790916"
+           id="g4856"
+           transform="matrix(0.77619794,-0.03738074,0.03738074,0.77619794,4.3353762,61.252788)" />
+        <g
+           id="g4985">
+          <circle
+             inkscape:transform-center-y="-11.225321"
+             inkscape:transform-center-x="-0.40090431"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.85480726;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle4850"
+             cx="73.005302"
+             cy="214.06406"
+             r="12.192306"
+             transform="rotate(-2.7571642)" />
+          <circle
+             r="2.3497949"
+             cy="210.4126"
+             cx="84.897469"
+             id="circle4852"
+             style="opacity:1;fill:#0c54ff;fill-opacity:1;stroke:#000000;stroke-width:0.07770975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="rotate(-2.7571642)" />
+          <circle
+             style="opacity:1;fill:#0c54ff;fill-opacity:1;stroke:#000000;stroke-width:0.07770975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle4854"
+             cx="82.200867"
+             cy="210.08105"
+             r="2.3497949"
+             transform="rotate(-2.7571642)" />
+          <circle
+             transform="rotate(-2.7571642)"
+             r="0.44058654"
+             cy="208.42523"
+             cx="82.376747"
+             id="circle4858"
+             style="opacity:1;fill:#040000;fill-opacity:1;stroke:none;stroke-width:3.10839009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             transform="rotate(-2.7571642)"
+             style="opacity:1;fill:#040000;fill-opacity:1;stroke:none;stroke-width:3.10839009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle4860"
+             cx="85.371605"
+             cy="208.7728"
+             r="0.44058654" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Run\Run4.png"
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path4862"
+             d="m 83.98982,204.84774 c 0.0153,-0.84142 2.897769,-4.39552 4.970986,-4.87285 2.064793,-0.47539 6.944294,0.68657 6.952983,1.89488 0.01662,2.3102 -4.625637,-0.8706 -6.405115,-0.48573 -1.920129,0.4153 -5.554564,5.4279 -5.518854,3.4637 z"
+             style="fill:#0f0f0f;fill-opacity:1;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="F:\soln\FPS\2dGame\char\Run\Run4.png"
+             sodipodi:nodetypes="ssss"
+             inkscape:connector-curvature="0"
+             id="path4864"
+             d="m 93.104543,212.47049 c 0.04614,-0.0113 -3.399962,1.17916 -4.268389,1.33297 -2.478901,0.43906 -3.449674,0.27422 -2.855809,0.52769 0.772237,0.32962 7.078126,-1.84927 7.124198,-1.86066 z"
+             style="fill:#ff9b9b;fill-opacity:0.81407034;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           id="g4870"
+           transform="matrix(0.72428179,-0.28159623,0.28159623,0.72428179,-38.944436,92.339337)">
+          <circle
+             r="3.830359"
+             cy="220.85966"
+             cx="72.851395"
+             id="circle4866"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90078783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             transform="rotate(-4.1381521,71.941477,221.44593)"
+             sodipodi:type="spiral"
+             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34047636;stroke-opacity:1"
+             id="path4868"
+             sodipodi:cx="72.926445"
+             sodipodi:cy="220.95509"
+             sodipodi:expansion="1"
+             sodipodi:revolution="3"
+             sodipodi:radius="2.9072645"
+             sodipodi:argument="-17.948881"
+             sodipodi:t0="0"
+             d="m 72.926445,220.95509 c 0.09053,0.11425 -0.109332,0.1784 -0.18988,0.15047 -0.218279,-0.0757 -0.221067,-0.36682 -0.111061,-0.53023 0.196774,-0.2923 0.618484,-0.28038 0.87058,-0.0717 0.369962,0.30632 0.341907,0.87373 0.03224,1.21093 -0.412733,0.44945 -1.130255,0.4044 -1.551282,-0.007 -0.52982,-0.51791 -0.467395,-1.38741 0.04658,-1.89164 0.622487,-0.61068 1.644907,-0.53068 2.231982,0.086 0.691849,0.72672 0.594162,1.90263 -0.125393,2.57233 -0.830755,0.7732 -2.160493,0.65776 -2.912683,-0.1648 -0.854686,-0.93465 -0.721446,-2.41846 0.204212,-3.25303 1.038448,-0.93627 2.676504,-0.7852 3.593384,0.24362 1.017909,1.14218 0.848988,2.9346 -0.283031,3.93373" />
+        </g>
+        <circle
+           r="0.62319326"
+           cy="220.99646"
+           cx="72.988197"
+           id="circle4874"
+           style="opacity:1;fill:#fff9f9;fill-opacity:1;stroke:none;stroke-width:0.14655674;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.72428179,-0.28159623,0.28159623,0.72428179,-38.944436,92.339337)" />
+        <g
+           id="g4888"
+           transform="matrix(0.72428179,-0.28159623,0.28159623,0.72428179,-38.944436,92.339337)">
+          <g
+             id="g4886">
+            <g
+               id="g4884">
+              <g
+                 id="g4882">
+                <circle
+                   r="3.8303592"
+                   cy="220.31499"
+                   cx="-122.86064"
+                   id="circle4876"
+                   style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05091918;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   transform="rotate(-58.095315)" />
+                <path
+                   d="m 122.05232,221.12706 c 0.0905,0.11424 -0.10933,0.1784 -0.18988,0.15047 -0.21828,-0.0757 -0.22106,-0.36682 -0.11106,-0.53023 0.19678,-0.2923 0.61849,-0.28038 0.87058,-0.0717 0.36996,0.30632 0.34191,0.87372 0.0322,1.21093 -0.41273,0.44944 -1.13025,0.4044 -1.55128,-0.007 -0.52982,-0.51791 -0.46739,-1.3874 0.0466,-1.89163 0.62248,-0.61068 1.64491,-0.53068 2.23198,0.086 0.69185,0.72672 0.59416,1.90262 -0.12539,2.57233 -0.83076,0.7732 -2.1605,0.65776 -2.91269,-0.1648 -0.85468,-0.93465 -0.72144,-2.41847 0.20422,-3.25304 1.03844,-0.93626 2.6765,-0.78519 3.59338,0.24362 1.01791,1.14218 0.84899,2.93461 -0.28303,3.93374"
+                   sodipodi:t0="0"
+                   sodipodi:argument="-17.948881"
+                   sodipodi:radius="2.9072645"
+                   sodipodi:revolution="3"
+                   sodipodi:expansion="1"
+                   sodipodi:cy="221.12706"
+                   sodipodi:cx="122.05232"
+                   id="path4878"
+                   style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34047636;stroke-opacity:1"
+                   sodipodi:type="spiral"
+                   transform="rotate(-15.465705,121.38984,221.536)" />
+                <circle
+                   style="opacity:1;fill:#fff9f9;fill-opacity:1;stroke:none;stroke-width:0.14655674;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="circle4880"
+                   cx="122.11407"
+                   cy="221.05727"
+                   r="0.62319326" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <path
+           style="opacity:1;fill:#2a0000;fill-opacity:1;stroke:none;stroke-width:0.90078783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 58.097469,200.57787 8.202633,10.41938 73.525648,2.51914 2.97355,-4.13438 -1.71028,8.81248 -85.784169,-0.452 z"
+           id="path4890"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc"
+           transform="matrix(0.72428179,-0.28159623,0.28159623,0.72428179,-38.944436,92.339337)" />
+        <ellipse
+           ry="0.64487451"
+           rx="0.68786615"
+           cy="220.95509"
+           cx="73.05542"
+           id="ellipse4894"
+           style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.21232857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.72428179,-0.28159623,0.28159623,0.72428179,-38.944436,92.339337)" />
+      </g>
+    </g>
+  </g>
+</svg>
